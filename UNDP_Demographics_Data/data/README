@@ -1,0 +1,15 @@
+About Dataset
+United Nations Development Program data for 'Demography' dimension, with the following indicators-
+-Median age
+
+Population under age 5
+Population between age 15-64
+-Population above age 65
+-Sex Ration
+-Total Population
+-Urban Population
+-Young age dependency ratio
+-Old age dependency ration
+There are some countries who have data which do not have internationally comparable data, and they do not have a numerical rank in the HDI Rank column, instead having '..' .
+Some countries do not have data published for them but have an HDI rank, having '..' in columns with missing values.
+This data is for 2019, which is the latest data published by UNDP.
